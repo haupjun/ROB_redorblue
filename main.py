@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-print("Hello World!")
-=======
 import gradio as gr
 import torch
 import torch.nn as nn
@@ -119,4 +116,3 @@ demo = gr.Interface(
 )
 
 demo.launch(share=True)
->>>>>>> Stashed changes
